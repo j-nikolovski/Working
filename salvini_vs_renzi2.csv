@@ -1,0 +1,84 @@
+﻿leader,nation,rank,frequency,keyness,effect,type,translation
+salvini,ita,1,329,400.59,0.9586,lega,lega
+salvini,ita,2,494,349.27,0.7377,quindi,therefore
+salvini,ita,3,272,257.09,0.8575,qua,here
+salvini,ita,4,407,219.55,0.6363,euro,euro
+salvini,ita,5,96,133.74,1,moneta,currency
+salvini,ita,6,245,127.53,0.6243,gente,people
+salvini,ita,7,269,115.94,0.5615,casa,home/house
+salvini,ita,8,94,103.04,0.9188,papà,dad
+salvini,ita,9,64,89.14,1,bimbi,kids
+salvini,ita,10,86,87.96,0.8907,nord,north
+salvini,ita,11,68,79.31,0.9432,galera,jail
+salvini,ita,12,56,78,1,palle,balls
+salvini,ita,13,425,70.26,0.3267,però,however
+salvini,ita,14,75,59.68,0.7869,viva,hurray
+salvini,ita,15,53,59.39,0.9277,donna,woman
+salvini,ita,16,72,56.19,0.779,là,there
+salvini,ita,17,71,55.04,0.7762,bruxelles,brussels
+salvini,ita,18,68,54.6,0.7906,ringrazio,I thank
+salvini,ita,19,69,49.89,0.7482,immigrazione,immigration
+salvini,ita,20,65,48.17,0.758,vado,I go
+salvini,ita,21,46,45.63,0.8782,mila,thousand(s)
+salvini,ita,22,32,44.56,1,clandestina,clandestine (feminine singular)
+salvini,ita,23,124,44.28,0.5053,magari,possibly
+salvini,ita,24,77,43.93,0.6576,normale,normal
+salvini,ita,25,31,43.17,1,clandestini,clandestines
+salvini,ita,26,818,41.91,0.1715,sono,I am/they are
+salvini,ita,27,29,40.38,1,agricoltura,agriculture
+salvini,ita,28,29,40.38,1,militante,party activist
+salvini,ita,29,28,38.99,1,lavora,he/she works
+salvini,ita,30,27,37.6,1,federale,federal (singular)
+salvini,ita,31,70,36.94,0.6297,uomo,man
+salvini,ita,32,174,36.27,0.3727,ne,thereof
+salvini,ita,33,26,36.21,1,cazzo,dick/fuck
+salvini,ita,34,65,36.04,0.6473,terra,earth/ground/soil/land
+renzi,ita,1,181,239.11,0.9889,soltanto,only
+renzi,ita,2,413,160.01,0.5303,dire,say
+renzi,ita,3,172,157.78,0.8486,qui,here
+renzi,ita,4,246,147.29,0.6776,partito,party
+renzi,ita,5,134,126.38,0.8603,vorrei,I would like
+renzi,ita,6,243,119.53,0.6074,politica,politics
+renzi,ita,7,564,118.5,0.3747,abbiamo,we have
+renzi,ita,8,154,100.25,0.7096,molto,much/very
+renzi,ita,9,118,99.64,0.8144,credo,I believe
+renzi,ita,10,124,97.03,0.783,modo,way
+renzi,ita,11,474,96.96,0.3693,italia,Italy
+renzi,ita,12,83,83.19,0.8857,democratico,democratic
+renzi,ita,13,178,82.42,0.5873,punto,point
+renzi,ita,14,59,81.47,1,luogo,place
+renzi,ita,15,67,71.92,0.9138,finalmente,finally/eventually
+renzi,ita,16,82,70.38,0.8212,semplicemente,simply
+renzi,ita,17,95,67.09,0.7418,idea,idea
+renzi,ita,18,46,63.51,1,bellezza,beauty
+renzi,ita,19,195,62.04,0.475,grande,big/great
+renzi,ita,20,74,60.89,0.8038,tema,topic
+renzi,ita,21,48,57.9,0.9589,expo,expo
+renzi,ita,22,71,57.37,0.7964,discussione,debate
+renzi,ita,23,143,51.74,0.511,allora,then
+renzi,ita,24,2532,49.27,0.1015,è,is
+renzi,ita,25,35,48.32,1,accaduto,happened
+renzi,ita,26,85,46.98,0.6488,dato,since/given
+renzi,ita,27,34,46.94,1,questioni,issues
+renzi,ita,28,80,46.23,0.665,significa,it means
+renzi,ita,29,33,45.56,1,dirigente,leader/executive
+renzi,ita,30,63,45.26,0.7487,certo,certain
+renzi,ita,31,46,45.12,0.8769,questione,issue
+renzi,ita,32,501,43.52,0.2296,anche,also
+renzi,ita,33,53,42.73,0.7955,discutere,discuss
+renzi,ita,34,343,42.5,0.2795,fatto,fact/done
+renzi,ita,35,208,41.69,0.3658,detto,said
+renzi,ita,36,30,41.42,1,elemento,item/element
+renzi,ita,37,30,41.42,1,elenco,list
+renzi,ita,38,35,40.57,0.9441,cambiamento,change (noun)
+renzi,ita,39,35,40.57,0.9441,insegnanti,teachers
+renzi,ita,40,84,40.13,0.5981,possiamo,we can
+renzi,ita,41,29,40.04,1,investimenti,investments
+renzi,ita,42,28,38.66,1,assemblea,assembly
+renzi,ita,43,103,37.44,0.5125,cambiare,change (verb)
+renzi,ita,44,27,37.27,1,atteggiamento,attitude
+renzi,ita,45,27,37.27,1,ruolo,role
+renzi,ita,46,169,36.68,0.3827,sia,either-or/be
+renzi,ita,47,213,36.06,0.3328,paese,country
+renzi,ita,48,26,35.89,1,naturalmente,of course/naturally
+renzi,ita,49,121,35.72,0.4555,insieme,together

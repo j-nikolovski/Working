@@ -1,0 +1,83 @@
+﻿leader,nation,rank,frequency,keyness,effect,type,translation
+le pen,fra,1,220,272.62,0.9809,etat,state
+le pen,fra,2,575,223,0.5397,français,french
+le pen,fra,3,172,202.63,0.9637,monsieur,mister
+le pen,fra,4,241,106.39,0.582,peuple,people
+le pen,fra,5,122,102.11,0.8253,immigration,immigration
+le pen,fra,6,99,98.66,0.8983,union,union
+le pen,fra,7,667,97.2,0.3101,france,france
+le pen,fra,8,97,87.7,0.8577,nationale,national
+le pen,fra,9,112,81.14,0.7658,nation,national
+le pen,fra,10,118,73.94,0.7081,européenne,european (feminine singular)
+le pen,fra,11,57,67.05,0.9634,notamment,notably
+le pen,fra,12,101,61.46,0.6969,élection,election
+le pen,fra,13,66,58.73,0.8512,souveraineté,sovereignty
+le pen,fra,14,40,53.13,1,référendum,referendum
+le pen,fra,15,53,51.34,0.8867,peuples,peoples
+le pen,fra,16,59,50.5,0.835,étrangers,foreigners
+le pen,fra,17,44,50.29,0.9529,œuvre,work/achievement
+le pen,fra,18,52,50.12,0.8846,compatriotes,compatriots
+le pen,fra,19,57,48.18,0.8297,service,service
+le pen,fra,20,35,46.48,1,hollande,hollande
+le pen,fra,21,144,44.78,0.4774,système,system
+le pen,fra,22,40,39.94,0.8992,proximité,proximity
+le pen,fra,23,30,39.84,1,islamisme,islamism
+le pen,fra,24,89,39.5,0.5844,intérêts,interests
+le pen,fra,25,72,39.47,0.6579,cœur,heart
+le pen,fra,26,67,39.04,0.6806,réalité,reality
+le pen,fra,27,35,38.79,0.9411,patriotisme,patriotism
+le pen,fra,28,35,38.79,0.9411,privés,private (masculine plural)
+le pen,fra,29,42,38.08,0.8591,pourtant,nevertheless
+macron,fra,1,2563,287.43,0.2543,est,is
+macron,fra,2,331,162.02,0.5921,donc,therefore
+macron,fra,3,207,138.79,0.705,europe,europe
+macron,fra,4,114,116.59,0.8759,soir,evening
+macron,fra,5,318,96.85,0.4531,projet,project
+macron,fra,6,252,95.63,0.5133,là,there
+macron,fra,7,70,85.69,0.9476,transformation,transformation
+macron,fra,8,122,75.72,0.6763,allons,we go/future periphrasis
+macron,fra,9,77,72.54,0.8422,train,progressive periphrasis
+macron,fra,10,71,72.52,0.8755,réussir,succeed
+macron,fra,11,96,70.94,0.7433,merci,thanks
+macron,fra,12,208,68.21,0.4729,sommes,we are
+macron,fra,13,302,68.21,0.3829,veux,I/you want
+macron,fra,14,45,65.12,1,réconcilier,reconcile
+macron,fra,15,54,63.54,0.9326,coeur,heart
+macron,fra,16,64,63.38,0.8629,portons,we bring/carry
+macron,fra,17,62,60.79,0.8587,ruralité,countryside
+macron,fra,18,69,59.11,0.803,vraie,real (feminine singular)
+macron,fra,19,91,57.91,0.6858,territoires,territories
+macron,fra,20,92,54.59,0.66,porter,bring/carry
+macron,fra,21,817,54.32,0.1942,a,to/in
+macron,fra,22,70,54.29,0.7627,investissement,investment
+macron,fra,23,130,54.2,0.5418,va,goes
+macron,fra,24,145,52.85,0.5021,devons,we must
+macron,fra,25,118,52.69,0.5631,avez,you have
+macron,fra,26,92,52.51,0.646,classes,classes
+macron,fra,27,191,48.44,0.4091,avons,we have
+macron,fra,28,240,48.39,0.3595,ai,I have
+macron,fra,29,49,47.85,0.8571,numérique,digital
+macron,fra,30,51,46.74,0.8309,formation,education
+macron,fra,31,108,46.67,0.5529,société,society
+macron,fra,32,61,46.51,0.7559,terrain,ground
+macron,fra,33,56,46.38,0.7892,décidé,decided
+macron,fra,34,1044,45.98,0.1553,pas,not
+macron,fra,35,155,45.82,0.4461,travail,work/job
+macron,fra,36,114,44.48,0.5219,culture,culture
+macron,fra,37,66,44.46,0.7075,plan,plan
+macron,fra,38,59,44.17,0.7486,concitoyens,fellow citizens
+macron,fra,39,43,44.02,0.8766,renouvellement,renewal
+macron,fra,40,48,42.97,0.8212,allez,you go
+macron,fra,41,83,41.52,0.6003,moyennes,middle (feminine plural)
+macron,fra,42,41,41.4,0.871,construit,bulds/built
+macron,fra,43,28,40.51,1,salle,hall
+macron,fra,44,51,40.37,0.7709,expliquer,explain
+macron,fra,45,61,38.96,0.6872,vrai,real (masculine singular)
+macron,fra,46,52,38.74,0.7468,transformer,transform
+macron,fra,47,32,38.67,0.9428,profondeur,depth
+macron,fra,48,49,38,0.7627,bout,goal
+macron,fra,49,68,37.84,0.637,construire,build
+macron,fra,50,59,36.79,0.6783,responsabilité,responsibility
+macron,fra,51,40,36.38,0.8278,investir,to invest
+macron,fra,52,25,36.17,1,voulais,I/you wished/wanted
+macron,fra,53,30,35.9,0.9391,habitation,accommodation/house
